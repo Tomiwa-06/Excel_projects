@@ -1,4 +1,6 @@
 # Excel_projects
+
+<img src="Excel Image.jpeg" alt="" /></a>
 ## 📊 Excel Project Workflow (Data Analysis)
 
 This section outlines the complete process I followed to complete a data analysis project using **Microsoft Excel**. Excel remains a fundamental tool for data analysts because of its flexibility, accessibility, and powerful analytical features.
